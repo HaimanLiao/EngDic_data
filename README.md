@@ -1,5 +1,3 @@
 # EngDic_data
-This commit is *.dic_A, then next commit should be *.dic_B.
-This commit is *.dic_A, then next commit should be *.dic_B.
-
-In order not to have manually edit the *.dic file.
+This repositary can not be diverged. Any commit should be built on the latest commit.
+So if you clone and edit it at this computer, you have to push it before another computer clone.
